@@ -1,4 +1,4 @@
-# How to setup Cloudfront with Application Load Balancer.
+# How to setup CloudFront with Application Load Balancer.
 
 ## Prerequisite
 
