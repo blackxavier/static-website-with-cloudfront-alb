@@ -1,5 +1,9 @@
 # How to setup CloudFront with Application Load Balancer.
 
+
+![Content delivery using Cloudfront and ALB. ](https://github.com/blackxavier/static-website-with-cloudfront-alb/blob/main/alb-cloudfront.drawio.png "Infrastructure image ")
+
+
 ## Prerequisite
 
 1. Create a security group for the ALB
