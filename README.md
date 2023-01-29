@@ -15,7 +15,9 @@
 5. Create a cloudfront distribution. 
 6. The origin should be your recently created ALB
 7. Modify the following settings, the remaining settings can remain default. 
-  ``` Protocol - HTTPS ONLY
+
+  ``` 
+      Protocol - HTTPS ONLY
       Viewer protocol policy -redirect HTTP to HTTPS
   ```
 6. Create distribution. 
